@@ -1,4 +1,4 @@
--- Evaluación sobre si los envios gratuitos son rentables
+-- Evaluación sobre volumen de pedidos por Estado, Ticket medio y relacion entre precio ticket medio y precio envio
 
 SELECT 
     c.customer_state AS estado,
