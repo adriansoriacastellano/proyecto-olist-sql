@@ -1,7 +1,7 @@
-# Análisis de E-Commerce Brasileño (Olist)
+# Análisis del E-Commerce Brasileño (Olist)
 
 ## 🎯 Objetivo del Proyecto
-Analizar el dataset público de Olist (100k pedidos, 2016-2018) para responder preguntas clave de negocio sobre **Ventas**, **Logística** y **Comportamiento del Consumidor**. Se actúa como un Consultor de Datos externo.
+Analizar el dataset público de Olist (100k pedidos, 2016-2018) para responder preguntas clave de negocio sobre **Ventas**, **Logística** y **Comportamiento del Consumidor**.
 
 ## 🛠️ Stack Tecnológico
 * **Motor de Base de Datos:** SQLite.
@@ -9,7 +9,9 @@ Analizar el dataset público de Olist (100k pedidos, 2016-2018) para responder p
 * **IDE:** VS Code (para gestión de scripts y versionado).
 * **Control de Versiones:** Git & GitHub.
 
-## 📊 Insights Clave (Resultados del Análisis)
+# Resultados del Análisis
+
+## 📊 PARTE I: INSIGHTS GENERALES (`/src`: del 01 hasta el 05)
 
 ### 1. Rendimiento Financiero
 * **Ventas Totales:** La compañía ha generado más de **13.5 Millones de BRL** en ventas históricas.
