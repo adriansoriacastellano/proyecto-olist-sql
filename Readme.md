@@ -11,7 +11,7 @@ Analizar el dataset público de Olist (100k pedidos, 2016-2018) para responder p
 
 # Resultados del Análisis
 
-## 📊 PARTE I: INSIGHTS GENERALES (`/src`: del 01 hasta el 05)
+## 📊 PARTE I: INSIGHTS GENERALES (/src: del 01 hasta el 05)
 
 ### 1. Rendimiento Financiero
 * **Ventas Totales:** La compañía ha generado más de **13.5 Millones de BRL** en ventas históricas.
