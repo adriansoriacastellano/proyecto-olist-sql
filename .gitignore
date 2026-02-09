@@ -1,0 +1,27 @@
+# --- Archivos de Datos (Nunca subir) ---
+*.csv
+*.xlsx
+*.xls
+*.json
+*.xml
+*.txt
+
+# --- Bases de Datos Locales ---
+*.db
+*.sqlite
+*.sqlite3
+Olist.db
+
+# --- Archivos de Sistema (Basura) ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --- Carpetas de Configuración del Editor ---
+.vscode/
+.idea/
+
+# --- Archivos Temporales o de Logs ---
+*.log
+*.tmp
+*.bak
