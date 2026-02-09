@@ -5,11 +5,14 @@ Actuar como Consultor de Datos para Olist (Marketplace Brasileño) con el objeti
 Se ha analizado un dataset de **100k pedidos** (2016-2018) utilizando técnicas avanzadas de SQL.
 
 ## 🛠️ Stack Tecnológico
-* **Lenguaje:** SQL (SQLite).
-* **Herramientas:** DBeaver (Análisis), VS Code (Gestión), Git/GitHub (Control de Versiones).
-* **Técnicas:** Window Functions (`NTILE`, `RANK`), CTEs, Vistas (`CREATE VIEW`), Segmentación RFM.
+* **Motor de Base de Datos:** SQLite.
+* **Cliente SQL:** DBeaver (para exploración y validación).
+* **IDE:** VS Code (para gestión de scripts y versionado).
+* **Control de Versiones:** Git & GitHub.
 
-## 💡 Insights Clave (Resultados)
+# Resultados del Análisis
+
+## 📊 PARTE I: INSIGHTS GENERALES (`/src`: del 01 hasta el 05)
 
 ### 1. 💰 Segmentación de Clientes (RFM)
 * **El Problema de Retención:** El **97%** de los clientes ha comprado una sola vez. Olist es una máquina de adquisición, pero falla en fidelización.
@@ -27,14 +30,5 @@ Se ha analizado un dataset de **100k pedidos** (2016-2018) utilizando técnicas 
 * **Black Friday 2017:** Fue el pico histórico de ventas, validando la sensibilidad al precio.
 * **Categorías:** "Health & Beauty" lidera el mercado, superando a tecnología.
 
-## 📂 Estructura del Proyecto
-
-El código está organizado en carpetas lógicas para facilitar la mantenibilidad:
-
-* `/src/parte_1_insights_generales`: KPIs financieros, categorías top y tendencias temporales.
-* `/src/parte_2_RFM_analysis`: Segmentación avanzada de clientes (Recencia, Frecuencia, Monetario).
-* `/src/parte_3_eficiencia_operativa`: Auditoría de tiempos de entrega y su impacto en reviews.
-* `/src/parte_4_ingenieria_datos`: Creación de **Vistas SQL** (`v_ecommerce_stats`, `v_clientes_rfm` y `v_logistic_stack`) para automatizar el reporte en herramientas de BI.
-
----
-*Autor: Adrian Soria Castellano | Proyecto realizado como parte de portfolio de Data Analytics.*
+## 📂 Estructura del Repositorio
+* `/src`: Contiene los scripts SQL numerados por orden de ejecución lógica.
