@@ -38,3 +38,4 @@ El código está organizado en carpetas lógicas para facilitar la mantenibilida
 
 ---
 *Autor: Adrian Soria Castellano | Proyecto realizado como parte de portfolio de Data Analytics.*
+*Dataset: Olist (Kaggle)*
